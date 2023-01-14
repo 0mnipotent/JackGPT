@@ -26,3 +26,7 @@ You can also customize the embed object to show additional information.
 
 # Conclusion
 This script is a simple example of how to use OpenAI's API to create a Discord bot. With some additional customization, you can create more advanced bots that can generate text, images, or even audio responses to messages.
+
+# Donations
+I don't accept donations. 
+If you would like to contribute funds to my work, you can purchase JDAO tokens at https://jdao.live
